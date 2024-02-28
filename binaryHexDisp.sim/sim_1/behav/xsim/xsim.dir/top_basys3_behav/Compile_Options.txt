@@ -1,0 +1,1 @@
+-wto "ef287d9871774e09953cffb0f01e3c3f" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "top_basys3_behav" "xil_defaultlib.top_basys3" -log "elaborate.log" 
